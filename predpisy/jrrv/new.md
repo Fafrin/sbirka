@@ -1,4 +1,3 @@
-
 ---
 typ:          úplné znění předpisu
 stav:         aktuální
