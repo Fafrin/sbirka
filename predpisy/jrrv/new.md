@@ -16,7 +16,7 @@ změněno:      2014-04-22
 
 ##### **§ 1 Subsidiarita jednacího řádu celostátní fóra**
 
-Pro jednání republikového výboru se použije [Jednací řád celostátního fóra](http://www.pirati.cz/rules/jdr)vyjma předepsaných odchylek. Ustanovení jednacího řádu celostátního fóra se za podmínek předchozí věty použijí přiměřeně. Kde jednací řád celostátního fóra mluví o celostátním fóru, má se tím v jednacím řádu republikového výboru na mysli republikový výbor; kde jednací řád celostátního fóra mluví o členu strany, má se tím v jednacím řádu republikového výboru na mysli člen republikového výboru.
+Pro jednání republikového výboru se použije [Jednací řád celostátního fóra](http://www.pirati.cz/rules/jdr) vyjma předepsaných odchylek. Ustanovení jednacího řádu celostátního fóra se za podmínek předchozí věty použijí přiměřeně. Kde jednací řád celostátního fóra mluví o celostátním fóru, má se tím při jednání republikového výboru na mysli republikový výbor; kde jednací řád celostátního fóra mluví o členu strany, má se tím při jednání republikového výboru na mysli člen republikového výboru.
 
 ##### **§2 Právo posudku**
 
