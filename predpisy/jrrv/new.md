@@ -24,21 +24,18 @@ Výkonný orgán smí požádat, aby mohl nejpozději do týdne od počátku roz
 
 ##### **§ 3 Jednatelé republikového výboru**
 
-(1) Členové republikového výboru mezi sebou vybírají tři jednatele, kteří výbor organizují, spravují a zastupují tam, kde to vyžaduje předpis(1).
+(1) Členové republikového výboru mezi sebou vybírají 3 až 5 jednatelů, kteří výbor organizují, spravují a zastupují tam, kde to vyžaduje předpis(1).
 
-(2) Jednatelé jsou do funkce vybráni na 6 měsíců, nejdéle však do konce funkčního období výboru. Kandidáty na jednatele navrhuje skupina členů republikového výboru. Jednatelé se vybírají losem. Pokud jsou do výběru navrženi nejvýše 3 kandidáti, jsou bez dalšího vybráni. Jednatele lze odvolat postupem při odvolání(2).
+(2) Jednatelé jsou do funkce vybráni na 6 měsíců, nejdéle však do konce funkčního období výboru. Kandidáty na jednatele navrhuje skupina členů republikového výboru. Jednatelé se vybírají losem. Pokud je do výběru navrženo nejvýše 5 kandidátů, jsou bez dalšího vybráni. Pokud je vybráno méně jak 3 jednatelé, je počet jednatelů doplňen losem ze všech zbývajících členů výboru. Jednatelé se považjí za orgán volený republikovým výborem, lze je tedy odvolat postupem při odvolání(2).
 
 (3) Jednatelé ve své působnosti zejména:
 
 * a) předsedají jednáním republikového výboru,
-
-* b) spravují podatelnu republikového výboru,
-
-* c) spravují webové stránky republikového výboru,
-
-* d) dohlíží na termíny vyřizování podání,
-
-* e) dohlíží na organizační záležitosti republikového výboru.
+* b) svolávají zasedání republikového výboru,
+* c) spravují podatelnu republikového výboru,
+* d) spravují webové stránky republikového výboru,
+* e) dohlíží na termíny vyřizování podání,
+* f) dohlíží na organizační záležitosti republikového výboru.
 
 (4) Jednatelé se v nepřítomnosti zastupují. Při sporu mezi jednateli se rozhoduje hlasováním jednatelů. Jednatelé mohou konsensem delegovat své povinnosti na další členy.
 
