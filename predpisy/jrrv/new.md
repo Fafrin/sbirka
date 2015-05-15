@@ -26,16 +26,18 @@ Výkonný orgán smí požádat, aby mohl nejpozději do týdne od počátku roz
 
 (1) Členové republikového výboru mezi sebou vybírají 3 až 5 jednatelů, kteří výbor organizují, spravují a zastupují tam, kde to vyžaduje předpis(1).
 
-(2) Jednatelé jsou do funkce vybráni na 6 měsíců, nejdéle však do konce funkčního období výboru. Kandidáty na jednatele navrhuje skupina členů republikového výboru. Jednatelé se vybírají losem. Pokud je do výběru navrženo nejvýše 5 kandidátů, jsou bez dalšího vybráni. Pokud je vybráno méně jak 3 jednatelé, je počet jednatelů doplňen losem ze všech zbývajících členů výboru. Jednatelé se považjí za orgán volený republikovým výborem, lze je tedy odvolat postupem při odvolání(2).
+(2) Pro účely ustanovení jednacího řádu(2) případně dalších předpisů se jednatelé považují za orgán volený republikovým výborem a jednotliví jednatelé za funkcionáře volené republikovým výborem.
+
+(2) Jednatelé jsou do funkce vybráni na 6 měsíců, nejdéle však do konce funkčního období výboru. Kandidáty na jednatele navrhuje skupina členů republikového výboru. Jednatelé se vybírají losem. Pokud je do výběru navrženo nejvýše 5 kandidátů, jsou bez dalšího vybráni. Pokud je vybráno méně jak 3 jednatelé, je počet jednatelů doplňen losem ze všech zbývajících členů výboru.
 
 (3) Jednatelé ve své působnosti zejména:
 
 * a) předsedají jednáním republikového výboru,
 * b) svolávají zasedání republikového výboru,
-* c) spravují podatelnu republikového výboru,
+* c) spravují podatelnu a archiv republikového výboru,
 * d) spravují webové stránky republikového výboru,
-* e) dohlíží na termíny vyřizování podání,
-* f) dohlíží na organizační záležitosti republikového výboru.
+* e) dohlíží na termíny vyřizování úkolů a podání,
+* f) dohlíží na další organizační záležitosti republikového výboru.
 
 (4) Jednatelé se v nepřítomnosti zastupují. Při sporu mezi jednateli se rozhoduje hlasováním jednatelů. Jednatelé mohou konsensem delegovat své povinnosti na další členy.
 
@@ -43,13 +45,70 @@ Výkonný orgán smí požádat, aby mohl nejpozději do týdne od počátku roz
 
 ## Výčet odchylek
 
+K [§ 2(2) JdŘ](http://www.pirati.cz/rules/jdr#predsedajici)
+
 ##### **§ 4 Předsedající**
 
-(1) Předsedajícím je libovolný člen republikového výboru, který zahájí jednání nebo převezme předsedání, aniž by předsedal ve vlastní věci. Neujme-li se nikdo předsedání, je jednání povinen předsedat jednatel republikového výboru.
+(1) Jednání může jako předsedající svolat libovolný člen republikového výboru, aniž by předsedal ve vlastní věci. Nesvolá-li, nikdo jednání do 3 dnů, je jednání povinen tak učinit jednatel.
 
 (2) Republikový výbor stále může vybrat předsedajícího z účastníků na základě návrhu postupu.
 
 (3) Zasedání zahajuje jako předsedající jednatel. Pokud jednatel není na zasedání přítomen, zahájí zasedání jiný člen republikového výboru.
+
+K [§ 3 JdŘ](http://www.pirati.cz/rules/jdr#prava_a_povinnosti) a 
+[§ 6 JdŘ](http://www.pirati.cz/rules/jdr#pristup_na_jednani):
+
+##### **§ 5 Přístup na jednání**
+
+(1) Účastnit jednání se smí
+* a) člen republikového výboru,
+* b) člen strany vykonávající funkci volenou celostátním fórem,
+* c) pověřenec komise nebo odboru,
+* d) člen strany vykonávající:
+**  (1) mandát poslance nebo senátora parlamentu České republiky,
+**  (2) funkci člena vlády České republiky,
+**  (3) funkci prezidenta České republiky,
+**  (4) mandát poslance Evropského parlamentu.
+*e) člen strany zvolený do funkce v mezinárodní organizaci pirátských stran,
+*f) osoba, s jejíž účastí republikový výbor vyslovil souhlas schválením procedurálního návrhu, v mezích tohoto souhlasu.
+
+(2) Ustanovení o působnosti orgánů se nevztahují na právo účasti. Počet účastníků a hlasujících nelze omezit.
+
+(3) Uzavřená jednání musí být zveřejněno nejpozději týden před koncem volebního období republikového výboru.([§18(4) StOK](http://www.pirati.cz/rules/stok#uzavrena_jednani))
+
+
+K [§ 15(1) JdŘ](http://www.pirati.cz/rules/jdr#zahajeni_jednani1), 
+[§ 19 JdŘ](http://www.pirati.cz/rules/jdr#zahajeni_jednani2), [§ 27 JdŘ](http://www.pirati.cz/rules/jdr#zahajeni_jednani3) a [§ 31(1) JdŘ](http://www.pirati.cz/rules/jdr#postup_pri_odvolani):
+
+#### **§ 6 Zahájení jednání**
+
+(1) Kromě důvodů předepsaných v jednacím řádu celostátního fóra(§ 15(1) JdŘ) jednání k usnesení předsedající zahájí také, když
+* a) republikovému výboru je uložen úkol celostátním fórem [(čl. 8(6)b) St)](http://www.pirati.cz/rules/st#p8-6),
+* b) republikovému výboru je předložená vyžádaná zpráva [(čl. 9(5)h) St)](http://www.pirati.cz/rules/st#p9-5),
+* c) republikovému výboru nějaké rozhodnutí odkáže celostátní fórum (např. § 17 d) JdŘ),
+* d) republikovému výboru není předložen rozpočet, výsledky hospodaření nebo výroční finanční zpráva ve lhůtě[(§ 4 RoPr)](http://www.pirati.cz/rules/ropr#harmonogram_rozpoctovani), kdy je mělo republikové předsednictvo předložit,
+* e) nebylo řádně oznámeno zasedání republikového výboru do dvou měsíců a republikový výbor už 3 měsíce nezasedal, nebo
+* f) mu vedoucí nebo pověřenec orgánu předloží přijatelný návrh usnesení, pokud se má navrženým usnesením schválit dokument, který byl vyjednán s třetími stranami.
+
+(2) Kromě důvodů předepsaných v jednacím řádu celostátního fóra(§ 19 JdŘ) jednání k volbě předsedající zahájí také, když
+* a) přijmající předsednictvo předloží přihlášku člena, který byl v minulosti ze strany vyloučen[(čl. 3(1)f) St)](http://www.pirati.cz/rules/st#p3-1)
+* b) probíhá volba celostátního fóra(§ 19 JdŘ), do níž může výbor nominovat kandidáta[(§ 21(b) JdŘ)]() a skupina členů předloží návrh na nominaci takového kandidáta,
+* c) je předložen návrh na doplnění kandidátní listiny(§ 17(b) VŘ); takový návrh je oprávněno předložit také příslušné předsednictvo.
+
+(3) Kromě důvodů předepsaných v jednacím řádu celostátního fóra (§ 27 JdŘ) jednání v referendu předsedající zahájí také, když
+
+a) republikovému výboru nějaké rozhodnutí odkáže celostátní fórum v referendu,
+b) republikovému výboru je předložen návrh na zrušení vyhlášky (§ 16 ZřKO),
+c) hospodář3) požádá republikový výbor o schválení záměru4) z rozpočtu organizační složky5), jejímž je hospodářem,
+d) mu vedoucí orgánu předloží přijatelný návrh usnesení, pokud se má navrženým usnesením schválit dokument, který byl vyjednán s třetími stranami,
+e) mu příslušné oblastní předsednictvo předloží návrh na upravení pořadí na kandidátní listině(§ 17(b) VŘ), nebo
+f) republikové předsednictvo, příslušné krajské předsednictvo u krajských voleb, nebo člen výboru zvolený příslušným krajem navrhnou provedení dohledu nad volební spoluprací(§ 16 VŘ).
+(4) Kromě důvodů předepsaných v jednacím řádu celostátního fóra (§ 31 JdŘ) jednání k odvolání předsedající zahájí také, když
+
+a) republikovému výboru je předložen návrh na veto jmenování či pověření funkcí člena odboru (čl. 12(5) St),
+b) skupina členů výboru navrhne odvolání osoby, jejíž odvolání z funkce je výbor oprávněn navrhnout (§ 31(1)a) JdŘ),
+c) je předložen návrh na vyškrtnutí z kandidátní listiny(§ 17(b) VŘ); takový návrh je oprávněno předložit také příslušné předsednictvo.
+(5) Vedoucím orgánu se v tomto paragrafu rozumí vedoucí odboru, garant programového bodu, předseda komise nebo předseda strany.
 
 K [§ 16 JdŘ](http://www.pirati.cz/rules/jdr#rozprava1), [§ 20 JdŘ](http://www.pirati.cz/rules/jdr#rozprava2) a [§ 33 JdŘ](http://www.pirati.cz/rules/jdr#postup_pri_sestavovani_poradu_zasedani):
 
@@ -67,29 +126,7 @@ K [§ 16 JdŘ](http://www.pirati.cz/rules/jdr#rozprava1), [§ 20 JdŘ](http://ww
 
 (6) Lhůty dle tohoto paragrafu lze prodloužit přijetím návrhu takového postupu.
 
-##### **§ 6 Zahájení jednání**
 
-(1) Kromě důvodů předepsaných v jednacím řádu celostátního fóra jednání předsedající zahájí také, když
-
-* a) republikovému výboru nějaké rozhodnutí odkáže celostátní fórum,
-
-* b) republikovému výboru není předložen rozpočet nebo výsledky hospodaření ve lhůtě, kdy je mělo republikové předsednictvo nebo finanční odbor předložit,
-
-* c) nebylo řádně oznámeno zasedání republikového výboru do dvou měsíců a republikový výbor už 3 měsíce nezasedal,
-
-* d) je třeba vybrat jednatele, aby jich byl předepsaný počet, nebo lze-li takovou potřebu v následujícím měsíci očekávat, nebo
-
-* e) mu vedoucí orgánu předloží přijatelný návrh usnesení, pokud se má navrženým usnesením schválit dokument, který byl vyjednán s třetími stranami.
-
-(2) Kromě důvodů předepsaných v jednacím řádu celostátního fóra jednání v referendu předsedající zahájí také, když
-
-* a) republikovému výboru nějaké rozhodnutí odkáže celostátní fórum v referendu,
-
-* b) hospodář(3) požádá republikový výbor o schválení výjimečného zcizení(4) nebo daru cizímu subjektu podléhajícímu schválení republikovým výborem(5) z rozpočtu organizační složky(6), jejímž je hospodářem, nebo
-
-* c) mu vedoucí orgánu předloží přijatelný návrh usnesení, pokud se má navrženým usnesením schválit v referendu dokument, který byl vyjednán s třetími stranami.
-
-(3) Vedoucím orgánu se v tomto paragrafu rozumí vedoucí odboru, garant programového bodu, předseda komise nebo předseda strany.
 
 K [§ 3 JdŘ](http://www.pirati.cz/rules/jdr#prava_a_povinnosti) a místo [§ 6 JdŘ](http://www.pirati.cz/rules/jdr#pristup_na_jednani):
 
@@ -200,7 +237,9 @@ Místo [§ 29 JdŘ](http://www.pirati.cz/rules/jdr#rozhodujici_hlasovani3):
 
 (1):  např. § 4 [StOK](http://sbirka.pirati.cz/predpisy/stok/2013-11-16.html), § 2(4) [PraH](http://sbirka.pirati.cz/predpisy/prah/2014-08-02.html)
 
-(2): viz § 31 [JdŘ](http://sbirka.pirati.cz/predpisy/jdr/2014-07-30.html)
+(2): např. § 19 a), b) [JdŘ](http://sbirka.pirati.cz/predpisy/jdr/2014-07-30.html),
+§ 25 [JdŘ](http://sbirka.pirati.cz/predpisy/jdr/2014-07-30.html),
+§ 31 [JdŘ](http://sbirka.pirati.cz/predpisy/jdr/2014-07-30.html)
 
 (3): viz § 2 odst. 4 [PraH](http://sbirka.pirati.cz/predpisy/prah/2014-08-02.html)
 
