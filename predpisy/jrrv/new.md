@@ -18,7 +18,7 @@ změněno:      2014-04-22
 
 Pro jednání republikového výboru se použije [Jednací řád celostátního fóra](http://www.pirati.cz/rules/jdr) vyjma předepsaných odchylek. Ustanovení jednacího řádu celostátního fóra se za podmínek předchozí věty použijí přiměřeně. Kde jednací řád celostátního fóra mluví o celostátním fóru, má se tím při jednání republikového výboru na mysli republikový výbor; kde jednací řád celostátního fóra mluví o členu strany, má se tím při jednání republikového výboru na mysli člen republikového výboru.
 
-##### **§2 Právo posudku**
+##### **§ 2 Právo posudku**
 
 Výkonný orgán smí požádat, aby mohl nejpozději do týdne od počátku rozpravy předložit vlastní posudek k cizímu návrhu, o němž se domnívá, že se týká jeho působnosti. Žádost smí republikový výbor zamítnout v hlasování o návrhu postupu, jinak je jí vázán.
 
@@ -70,6 +70,7 @@ K [§ 3 JdŘ](http://www.pirati.cz/rules/jdr#prava_a_povinnosti) a
 **  (3) funkci prezidenta České republiky,
 **  (4) mandát poslance Evropského parlamentu.
 *e) člen strany zvolený do funkce v mezinárodní organizaci pirátských stran,
+*f) navržený kandidát, pokud republikový výbor jedná o volbě(§ 6(2))[#§ 6 Zahájení jednání]
 *f) osoba, s jejíž účastí republikový výbor vyslovil souhlas schválením procedurálního návrhu, v mezích tohoto souhlasu.
 
 (2) Ustanovení o působnosti orgánů se nevztahují na právo účasti. Počet účastníků a hlasujících nelze omezit.
@@ -80,7 +81,7 @@ K [§ 3 JdŘ](http://www.pirati.cz/rules/jdr#prava_a_povinnosti) a
 K [§ 15(1) JdŘ](http://www.pirati.cz/rules/jdr#zahajeni_jednani1), 
 [§ 19 JdŘ](http://www.pirati.cz/rules/jdr#zahajeni_jednani2), [§ 27 JdŘ](http://www.pirati.cz/rules/jdr#zahajeni_jednani3) a [§ 31(1) JdŘ](http://www.pirati.cz/rules/jdr#postup_pri_odvolani):
 
-#### **§ 6 Zahájení jednání**
+##### **§ 6 Zahájení jednání**
 
 (1) Kromě důvodů předepsaných v jednacím řádu celostátního fóra(§ 15(1) JdŘ) jednání k usnesení předsedající zahájí také, když
 * a) republikovému výboru je uložen úkol celostátním fórem [(čl. 8(6)b) St)](http://www.pirati.cz/rules/st#p8-6),
@@ -88,12 +89,12 @@ K [§ 15(1) JdŘ](http://www.pirati.cz/rules/jdr#zahajeni_jednani1),
 * c) republikovému výboru nějaké rozhodnutí odkáže celostátní fórum (např. § 17 d) JdŘ),
 * d) republikovému výboru není předložen rozpočet, výsledky hospodaření nebo výroční finanční zpráva ve lhůtě[(§ 4 RoPr)](http://www.pirati.cz/rules/ropr#harmonogram_rozpoctovani), kdy je mělo republikové předsednictvo předložit,
 * e) nebylo řádně oznámeno zasedání republikového výboru do dvou měsíců a republikový výbor už 3 měsíce nezasedal, nebo
-* f) mu vedoucí nebo pověřenec orgánu předloží přijatelný návrh usnesení, pokud se má navrženým usnesením schválit dokument, který byl vyjednán s třetími stranami.
+* f) republikovému výboru vedoucí nebo pověřenec orgánu předloží přijatelný návrh usnesení, pokud se má navrženým usnesením schválit dokument, který byl vyjednán s třetími stranami.
 
 (2) Kromě důvodů předepsaných v jednacím řádu celostátního fóra(§ 19 JdŘ) jednání k volbě předsedající zahájí také, když
 * a) přijmající předsednictvo předloží přihlášku člena, který byl v minulosti ze strany vyloučen[(čl. 3(1)f) St)](http://www.pirati.cz/rules/st#p3-1)
-* b) probíhá volba celostátního fóra(§ 19 JdŘ), do níž může výbor nominovat kandidáta[(§ 21(b) JdŘ)]() a skupina členů předloží návrh na nominaci takového kandidáta,
-* c) je předložen návrh na doplnění kandidátní listiny(§ 17(b) VŘ); takový návrh je oprávněno předložit také příslušné předsednictvo.
+* b) probíhá volba celostátního fóra(§ 19 JdŘ), do níž může výbor nominovat kandidáta[(§ 21(b) JdŘ)](http://www.pirati.cz/rules/jdr#navrhovani_kandidatu) a skupina členů předloží návrh na nominaci takového kandidáta,
+* c) je předložen návrh na doplnění kandidátní listiny[(§ 17(b) VŘ)](http://www.pirati.cz/rules/vr#zmena_volebniho_programu_a_kandidatni_listiny); takový návrh je oprávněno předložit také příslušné předsednictvo.
 
 (3) Kromě důvodů předepsaných v jednacím řádu celostátního fóra (§ 27 JdŘ) jednání v referendu předsedající zahájí také, když
 
