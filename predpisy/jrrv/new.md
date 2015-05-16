@@ -93,8 +93,9 @@ K [§ 15(1) JdŘ](http://www.pirati.cz/rules/jdr#zahajeni_jednani1),
 
 (2) Kromě důvodů předepsaných v jednacím řádu celostátního fóra(§ 19 JdŘ) jednání k volbě předsedající zahájí také, když
 * a) přijmající předsednictvo předloží přihlášku člena, který byl v minulosti ze strany vyloučen[(čl. 3(1)f) St)](http://www.pirati.cz/rules/st#p3-1)
-* b) probíhá volba celostátního fóra(§ 19 JdŘ), do níž může výbor nominovat kandidáta[(§ 21(b) JdŘ)](http://www.pirati.cz/rules/jdr#navrhovani_kandidatu) a skupina členů předloží návrh na nominaci takového kandidáta,
+* b) probíhá volba celostátního fóra(§ 19 JdŘ), do níž může výbor nominovat kandidáta[(§ 21(b) JdŘ)](http://www.pirati.cz/rules/jdr#navrhovani_kandidatu) a skupina členů předloží návrh na nominaci takového kandidáta; Velikost skupiny se přitom určuje, jako by se jednalo o návrh na již probíhající jednání,
 * c) je předložen návrh na doplnění kandidátní listiny[(§ 17(b) VŘ)](http://www.pirati.cz/rules/vr#zmena_volebniho_programu_a_kandidatni_listiny); takový návrh je oprávněno předložit také příslušné předsednictvo.
+* d) pokud není republikovému výboru včas() předložena listina pro volby() a skupina členů, republikové nebo příslušné předsednictvo požádá o svolání
 
 (3) Kromě důvodů předepsaných v jednacím řádu celostátního fóra (§ 27 JdŘ) jednání v referendu předsedající zahájí také, když
 
