@@ -116,7 +116,7 @@ K [§ 15(1) JdŘ](http://www.pirati.cz/rules/jdr#zahajeni_jednani1),
 
 K [§ 16 JdŘ](http://www.pirati.cz/rules/jdr#rozprava1), [§ 20 JdŘ](http://www.pirati.cz/rules/jdr#rozprava2) a [§ 33 JdŘ](http://www.pirati.cz/rules/jdr#postup_pri_sestavovani_poradu_zasedani):
 
-##### **§ 5 Lhůty**
+##### **§ 7 Lhůty**
 
 (1) Lhůta pro jiné návrhy usnesení činí 7 dní od zahájení jednání, nevyhlásí-li předsedající na žádost navrhovatele usnesení lhůtu delší.
 
@@ -126,44 +126,36 @@ K [§ 16 JdŘ](http://www.pirati.cz/rules/jdr#rozprava1), [§ 20 JdŘ](http://ww
 
 (4) Doba na rozmyšlenou činí aspoň 24 hodin.
 
-(5) V případě referenda může být doba na rozmyšlenou na žádost navrhovatele zkrácena na 12 hodin, ale pouze tehdy, pokud s tím souhlasí všichni jednatelé a hrozí v případě dodržení řádné doby na rozmyšlenou nepřiměřená újma. V tomto případě se ovšem hlasování nepovažuje nikdy za řádně oznámené.
+(5) V případě referenda může být doba na rozmyšlenou na žádost navrhovatele zkrácena na 12 hodin, ale pouze tehdy, pokud hrozí v případě dodržení řádné doby na rozmyšlenou nepřiměřená újma. V tomto případě se ovšem hlasování nepovažuje nikdy za řádně oznámené.
 
 (6) Lhůty dle tohoto paragrafu lze prodloužit přijetím návrhu takového postupu.
 
+Místo [§ 17 JdŘ](http://www.pirati.cz/rules/jdr#rozhodujici_hlasovani1):
 
+##### **§ 10 Rozhodující hlasování při usnášení**
 
-K [§ 3 JdŘ](http://www.pirati.cz/rules/jdr#prava_a_povinnosti) a místo [§ 6 JdŘ](http://www.pirati.cz/rules/jdr#pristup_na_jednani):
+(1) V rozhodujícím hlasování republikový výbor vybere jednu z následujících možností:
+* a) schválení některého návrhu usnesení ve znění po skončení rozpravy,
+* b) ukončení projednávání návrhů usnesení bez schválení usnesení, i když předsedající takový návrh postupu nezaznamenal,
+* c) schválení některého návrhu usnesení ve znění, ve kterém předsedající návrh poprvé zaznamenal, pokud o to kdokoliv do ukončení rozpravy požádá,
+* d) předložení rozhodnutí celostátnímu fóru k projednání, požádání celostátního fóra o projednání projednávaného rozhodnutí v referendu, pokud o to kdokoliv do ukončení rozpravy požádá,
+* e) odročení na jiný čas, nebo jiný návrh postupu, který předsedající zaznamenal.
 
-##### **§ 7 Přístup na jednání**
+(2) Pokud republikový výbor v rozhodujícím hlasování nevybere žádnou možnost, je projednávání návrhů ukončeno bez schválení usnesení.
 
-(1) Účastnit se smí
+Místo [§ 29 JdŘ](http://www.pirati.cz/rules/jdr#rozhodujici_hlasovani3):
 
-* a) člen republikového výboru,
-* b) člen strany vykonávající funkci volenou celostátním fórem,
-* c) pověřenec komise nebo odboru,
-* d) člen strany vykonávající:
-    * (1) mandát poslance nebo senátora parlamentu České republiky,
-    * (2) funkci člena vlády České republiky,
-    * (3) funkci prezidenta České republiky,
-    * (4) mandát poslance Evropského parlamentu.
-* e) člen strany zvolený do funkce v mezinárodní organizaci pirátských stran,
-* f) osoba, s jejíž účastí republikový výbor souhlasil v mezích tohoto souhlasu.
+##### **§ 11 Rozhodující hlasování při referendu**
 
-(2) Ustanovení o působnosti orgánů se nevztahují na právo účasti. Počet účastníků a hlasujících nelze omezit.
+(1) V rozhodujícím hlasování republikový výbor vybere jednu z následujících možností:
 
-(3) Uzavřené jednání musí být zveřejněno nejpozději týden před koncem volebního období republikového výboru.
+* a) schválení některého návrhu usnesení, který předsedající zaznamenal,
+* b) ukončení projednávání návrhů usnesení bez přijetí usnesení,
+* c) požádání celostátního fóra o projednání projednávaného rozhodnutí v referendu,
+* d) odročení projednávaného rozhodnutí na jednání republikového výboru.
 
-(4) Veřejnost podle tohoto paragrafu znamená vysílače, nestanoví-li republikový výbor jinak.
+(2) Pokud republikový výbor v rozhodujícím hlasování nevybere žádnou možnost, je projednávání návrhů ukončeno bez schválení usnesení.
 
-Místo [§ 37 JdŘ](http://www.pirati.cz/rules/jdr#svolani_zasedani):
-
-##### **§ 8 Svolání zasedání**
-
-(1) Zasedání republikového výboru je svoláno vyhlášením usnesení republikového výboru nebo řádným oznámením předsedy strany účastníkům, které obsahuje datum, dobu, místo konání zasedání a jeho organizátora. Platí, že zasedání svolané vyhlášením usnesení republikového výboru dle tohoto odstavce je řádně oznámené.
-
-(2) Zasedání musí být svoláno nejméně 14 dnů před začátkem zasedání.
-
-(3) Pořad zasedání musí být účastníkům řádně oznámen nejméně 7 dnů před začátkem zasedání.
 
 K [§ 36 JdŘ](http://www.pirati.cz/rules/jdr#hlasovani_na_internetu):
 
@@ -194,32 +186,15 @@ K [§ 36 JdŘ](http://www.pirati.cz/rules/jdr#hlasovani_na_internetu):
 
 (2) Pokud má hlasovací systém více než 1 kolo a neurčuje, jak se má doba pro hlasování mezi kola rozložit, tak se doba pro hlasování rozloží mezi kola hlasování rovným dílem.
 
-Místo [§ 17 JdŘ](http://www.pirati.cz/rules/jdr#rozhodujici_hlasovani1):
+Místo [§ 37 JdŘ](http://www.pirati.cz/rules/jdr#svolani_zasedani):
 
-##### **§ 10 Rozhodující hlasování při usnášení**
+##### **§ 8 Svolání zasedání**
 
-(1) V rozhodujícím hlasování republikový výbor vybere jednu z následujících možností:
+(1) Zasedání republikového výboru je svoláno vyhlášením usnesení republikového výboru nebo řádným oznámením předsedy strany účastníkům, které obsahuje datum, dobu, místo konání zasedání a jeho organizátora. Platí, že zasedání svolané vyhlášením usnesení republikového výboru dle tohoto odstavce je řádně oznámené.
 
-* a) schválení některého návrhu usnesení ve znění po skončení rozpravy,
-* b) ukončení projednávání návrhů usnesení bez schválení usnesení, i když předsedající takový návrh postupu nezaznamenal,
-* c) schválení některého návrhu usnesení ve znění, ve kterém předsedající návrh poprvé zaznamenal, pokud o to kdokoliv do ukončení rozpravy požádá,
-* d) předložení rozhodnutí celostátnímu fóru k projednání, požádání celostátního fóra o projednání projednávaného rozhodnutí v referendu, pokud o to kdokoliv do ukončení rozpravy požádá,
-* e) odročení na jiný čas, nebo jiný návrh postupu, který předsedající zaznamenal.
+(2) Zasedání musí být svoláno nejméně 14 dnů před začátkem zasedání.
 
-(2) Pokud republikový výbor v rozhodujícím hlasování nevybere žádnou možnost, je projednávání návrhů ukončeno bez schválení usnesení.
-
-Místo [§ 29 JdŘ](http://www.pirati.cz/rules/jdr#rozhodujici_hlasovani3):
-
-##### **§ 11 Rozhodující hlasování při referendu**
-
-(1) V rozhodujícím hlasování republikový výbor vybere jednu z následujících možností:
-
-* a) schválení některého návrhu usnesení, který předsedající zaznamenal,
-* b) ukončení projednávání návrhů usnesení bez přijetí usnesení,
-* c) požádání celostátního fóra o projednání projednávaného rozhodnutí v referendu,
-* d) odročení projednávaného rozhodnutí na jednání republikového výboru.
-
-(2) Pokud republikový výbor v rozhodujícím hlasování nevybere žádnou možnost, je projednávání návrhů ukončeno bez schválení usnesení.
+(3) Pořad zasedání musí být účastníkům řádně oznámen nejméně 7 dnů před začátkem zasedání.
 
 ### Poznámky
 
