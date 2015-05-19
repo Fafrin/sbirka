@@ -64,13 +64,13 @@ K [§ 3 JdŘ](http://www.pirati.cz/rules/jdr#prava_a_povinnosti) a
 * b) člen strany vykonávající funkci volenou celostátním fórem,
 * c) pověřenec komise nebo odboru,
 * d) člen strany vykonávající:
-**  (1) mandát poslance nebo senátora parlamentu České republiky,
-**  (2) funkci člena vlády České republiky,
-**  (3) funkci prezidenta České republiky,
-**  (4) mandát poslance Evropského parlamentu.
-*e) člen strany zvolený do funkce v mezinárodní organizaci pirátských stran,
-*f) navržený kandidát, pokud republikový výbor jedná o volbě(§ 6(2))[#§ 6 Zahájení jednání]
-*g) osoba, s jejíž účastí republikový výbor vyslovil souhlas schválením procedurálního návrhu, v mezích tohoto souhlasu.
+  * (1) mandát poslance nebo senátora parlamentu České republiky,
+  * (2) funkci člena vlády České republiky,
+  * (3) funkci prezidenta České republiky,
+  * (4) mandát poslance Evropského parlamentu.
+* e) člen strany zvolený do funkce v mezinárodní organizaci pirátských stran,
+* f) navržený kandidát, pokud republikový výbor jedná o volbě(§ 6(2))[#§ 6 Zahájení jednání]
+* g) osoba, s jejíž účastí republikový výbor vyslovil souhlas schválením procedurálního návrhu, v mezích tohoto souhlasu.
 
 (2) Ustanovení o působnosti orgánů se nevztahují na právo účasti. Počet účastníků a hlasujících nelze omezit.
 
