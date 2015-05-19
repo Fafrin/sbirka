@@ -137,23 +137,14 @@ K [§ 3 JdŘ](http://www.pirati.cz/rules/jdr#prava_a_povinnosti) a místo [§ 6 
 (1) Účastnit se smí
 
 * a) člen republikového výboru,
-
 * b) člen strany vykonávající funkci volenou celostátním fórem,
-
 * c) pověřenec komise nebo odboru,
-
 * d) člen strany vykonávající:
-
     * (1) mandát poslance nebo senátora parlamentu České republiky,
-
     * (2) funkci člena vlády České republiky,
-
     * (3) funkci prezidenta České republiky,
-
     * (4) mandát poslance Evropského parlamentu.
-
 * e) člen strany zvolený do funkce v mezinárodní organizaci pirátských stran,
-
 * f) osoba, s jejíž účastí republikový výbor souhlasil v mezích tohoto souhlasu.
 
 (2) Ustanovení o působnosti orgánů se nevztahují na právo účasti. Počet účastníků a hlasujících nelze omezit.
@@ -208,13 +199,9 @@ Místo [§ 17 JdŘ](http://www.pirati.cz/rules/jdr#rozhodujici_hlasovani1):
 (1) V rozhodujícím hlasování republikový výbor vybere jednu z následujících možností:
 
 * a) schválení některého návrhu usnesení ve znění po skončení rozpravy,
-
 * b) ukončení projednávání návrhů usnesení bez schválení usnesení, i když předsedající takový návrh postupu nezaznamenal,
-
 * c) schválení některého návrhu usnesení ve znění, ve kterém předsedající návrh poprvé zaznamenal, pokud o to kdokoliv do ukončení rozpravy požádá,
-
 * d) předložení rozhodnutí celostátnímu fóru k projednání, požádání celostátního fóra o projednání projednávaného rozhodnutí v referendu, pokud o to kdokoliv do ukončení rozpravy požádá,
-
 * e) odročení na jiný čas, nebo jiný návrh postupu, který předsedající zaznamenal.
 
 (2) Pokud republikový výbor v rozhodujícím hlasování nevybere žádnou možnost, je projednávání návrhů ukončeno bez schválení usnesení.
@@ -226,11 +213,8 @@ Místo [§ 29 JdŘ](http://www.pirati.cz/rules/jdr#rozhodujici_hlasovani3):
 (1) V rozhodujícím hlasování republikový výbor vybere jednu z následujících možností:
 
 * a) schválení některého návrhu usnesení, který předsedající zaznamenal,
-
 * b) ukončení projednávání návrhů usnesení bez přijetí usnesení,
-
 * c) požádání celostátního fóra o projednání projednávaného rozhodnutí v referendu,
-
 * d) odročení projednávaného rozhodnutí na jednání republikového výboru.
 
 (2) Pokud republikový výbor v rozhodujícím hlasování nevybere žádnou možnost, je projednávání návrhů ukončeno bez schválení usnesení.
