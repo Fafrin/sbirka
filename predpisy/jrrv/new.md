@@ -28,10 +28,9 @@ Výkonný orgán smí požádat, aby mohl nejpozději do týdne od počátku roz
 
 (2) Pro účely ustanovení jednacího řádu(2) případně dalších předpisů se jednatelé považují za orgán volený republikovým výborem a jednotliví jednatelé za funkcionáře volené republikovým výborem.
 
-(2) Jednatelé jsou do funkce vybráni na 6 měsíců, nejdéle však do konce funkčního období výboru. Kandidáty na jednatele navrhuje skupina členů republikového výboru. Jednatelé se vybírají losem. Pokud je do výběru navrženo nejvýše 5 kandidátů, jsou bez dalšího vybráni. Pokud je vybráno méně jak 3 jednatelé, je počet jednatelů doplňen losem ze všech zbývajících členů výboru.
+(3) Jednatelé jsou do funkce vybráni na 6 měsíců, nejdéle však do konce funkčního období výboru. Kandidáty na jednatele navrhuje skupina členů republikového výboru. Jednatelé se vybírají losem. Pokud je do výběru navrženo nejvýše 5 kandidátů, jsou bez dalšího vybráni. Pokud je vybráno méně jak 3 jednatelé, je počet jednatelů doplňen losem ze všech zbývajících členů výboru.
 
-(3) Jednatelé ve své působnosti zejména:
-
+(4) Jednatelé ve své působnosti zejména:
 * a) předsedají jednáním republikového výboru,
 * b) svolávají zasedání republikového výboru,
 * c) spravují podatelnu a archiv republikového výboru,
@@ -39,9 +38,9 @@ Výkonný orgán smí požádat, aby mohl nejpozději do týdne od počátku roz
 * e) dohlíží na termíny vyřizování úkolů a podání,
 * f) dohlíží na další organizační záležitosti republikového výboru.
 
-(4) Jednatelé se v nepřítomnosti zastupují. Při sporu mezi jednateli se rozhoduje hlasováním jednatelů. Jednatelé mohou konsensem delegovat své povinnosti na další členy.
+(5) Jednatelé se v nepřítomnosti zastupují. Při sporu mezi jednateli se rozhoduje hlasováním jednatelů. Jednatelé mohou konsensem delegovat své povinnosti na další členy.
 
-(5) Republikový výbor může jednatelům ukládat úkoly v rozsahu jejich působnosti, nebo úkolem v jejich působnosti pověřit jiného člena výboru.
+(6) Republikový výbor může jednatelům ukládat úkoly v rozsahu jejich působnosti, nebo úkolem v jejich působnosti pověřit jiného člena výboru.
 
 ## Výčet odchylek
 
@@ -71,7 +70,7 @@ K [§ 3 JdŘ](http://www.pirati.cz/rules/jdr#prava_a_povinnosti) a
 **  (4) mandát poslance Evropského parlamentu.
 *e) člen strany zvolený do funkce v mezinárodní organizaci pirátských stran,
 *f) navržený kandidát, pokud republikový výbor jedná o volbě(§ 6(2))[#§ 6 Zahájení jednání]
-*f) osoba, s jejíž účastí republikový výbor vyslovil souhlas schválením procedurálního návrhu, v mezích tohoto souhlasu.
+*g) osoba, s jejíž účastí republikový výbor vyslovil souhlas schválením procedurálního návrhu, v mezích tohoto souhlasu.
 
 (2) Ustanovení o působnosti orgánů se nevztahují na právo účasti. Počet účastníků a hlasujících nelze omezit.
 
