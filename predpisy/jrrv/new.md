@@ -99,7 +99,7 @@ K [§ 15(1) JdŘ](http://www.pirati.cz/rules/jdr#zahajeni_jednani1),
 (3) Kromě důvodů předepsaných v jednacím řádu celostátního fóra (§ 27 JdŘ) jednání v referendu předsedající zahájí také, když
  * a) republikové předsednictvo nebo přezkumný orgán předloží návrh na projednání v referendu,
  * b) republikové předsednictvo vrátí uložený úkol([čl. 9(5)k) St](http://www.pirati.cz/rules/st#p9-5) a [čl. 10(2)h) St](http://www.pirati.cz/rules/st#p10-2)); možnost znovuuložení je hlasována jako zásadní
- * c) republikovému výboru nějaké rozhodnutí odkáže celostátní fórum v referendu [(§ 17 d) JdŘ]](http://www.pirati.cz/rules/jdr#rozhodujici_hlasovani1),
+ * c) republikovému výboru nějaké rozhodnutí odkáže celostátní fórum v referendu [(§ 17 d) JdŘ)](http://www.pirati.cz/rules/jdr#rozhodujici_hlasovani1),
  * d) probíhá jednání o usnesení celostátního fóra[(§ 15 JdŘ)](http://www.pirati.cz/rules/jdr#zahajeni_jednani1) a skupina členů předloží takový návrh; Velikost skupiny se přitom určuje, jako by se jednalo o návrh na již probíhající jednání,
  * e) republikové předsednictvo, kontrolní nebo rozhodčí komise, nebo skupina členů předloží návrh na zrušení vyhlášky [(§ 16(1) )](http://www.pirati.cz/rules/stok#zmocneni_k_moci_narizovaci),
  * f) hospodář3) požádá republikový výbor o schválení záměru4) z rozpočtu organizační složky5), jejímž je hospodářem,
