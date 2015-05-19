@@ -85,7 +85,7 @@ K [§ 15(1) JdŘ](http://www.pirati.cz/rules/jdr#zahajeni_jednani1),
 (1) Kromě důvodů předepsaných v jednacím řádu celostátního fóra(§ 15(1) JdŘ) jednání k usnesení předsedající zahájí také, když
 * a) republikovému výboru je uložen úkol celostátním fórem [(čl. 8(6)b) St)](http://www.pirati.cz/rules/st#p8-6),
 * b) republikovému výboru je předložená vyžádaná zpráva [(čl. 9(5)h) St)](http://www.pirati.cz/rules/st#p9-5),
-* c) republikovému výboru nějaké rozhodnutí odkáže celostátní fórum (např. [§ 17 d) JdŘ](http://www.pirati.cz/rules/jdr#rozhodujici_hlasovani1) nebo [§ 29 c)](http://www.pirati.cz/rules/jdr#rozhodujici_hlasovani3)),
+* c) republikovému výboru nějaké rozhodnutí odkáže celostátní fórum (např. [§ 17 d) JdŘ](http://www.pirati.cz/rules/jdr#rozhodujici_hlasovani1) nebo [§ 29 c) JdŘ](http://www.pirati.cz/rules/jdr#rozhodujici_hlasovani3)),
 * d) republikovému výboru není předložen rozpočet, výsledky hospodaření nebo výroční finanční zpráva ve lhůtě[(§ 4 RoPr)](http://www.pirati.cz/rules/ropr#harmonogram_rozpoctovani), kdy je mělo republikové předsednictvo předložit,
 * e) nebylo řádně oznámeno zasedání republikového výboru do dvou měsíců a republikový výbor už 3 měsíce nezasedal,
 * f) vedoucí nebo pověřenec orgánu předloží přijatelný návrh usnesení, pokud se má navrženým usnesením schválit dokument, který byl vyjednán s třetími stranami, nebo
