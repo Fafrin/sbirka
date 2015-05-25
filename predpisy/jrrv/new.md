@@ -62,7 +62,7 @@ K [§ 3 JdŘ](http://www.pirati.cz/rules/jdr#prava_a_povinnosti) a
 (1) Účastnit jednání se smí
 * a) člen republikového výboru,
 * b) člen strany vykonávající funkci volenou celostátním fórem,
-* c) pověřenec komise nebo odboru,
+* c) pověřenec odboru[(§18(2))](http://www.pirati.cz/rules/stok#uzavrena_jednani),
 * d) člen strany vykonávající:
   * (1) mandát poslance nebo senátora parlamentu České republiky,
   * (2) funkci člena vlády České republiky,
