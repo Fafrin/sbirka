@@ -102,7 +102,7 @@ K [§ 15(1) JdŘ](http://www.pirati.cz/rules/jdr#zahajeni_jednani1),
  * b) republikové předsednictvo vrátí uložený úkol ([čl. 9(5)k) St](http://www.pirati.cz/rules/st#p9-5) a [čl. 10(2)h) St](http://www.pirati.cz/rules/st#p10-2)); možnost znovuuložení je hlasována jako zásadní návrh
  * c) republikovému výboru nějaké rozhodnutí odkáže celostátní fórum v referendu [(§ 17 d) JdŘ)](http://www.pirati.cz/rules/jdr#rozhodujici_hlasovani1),
  * d) probíhá jednání o usnesení celostátního fóra [(§ 15 JdŘ)](http://www.pirati.cz/rules/jdr#zahajeni_jednani1) a skupina členů navrhne, aby republikový výbor v tomto jednání předložil svůj návrh; Velikost skupiny se přitom určuje, jako by se jednalo o návrh na již probíhající jednání,
- * e) republikové předsednictvo, kontrolní nebo rozhodčí komise, nebo skupina členů předloží návrh na zrušení vyhlášky, [(§ 16(1) )](http://www.pirati.cz/rules/stok#zmocneni_k_moci_narizovaci)
+ * e) republikové předsednictvo, kontrolní nebo rozhodčí komise, nebo skupina členů předloží návrh na zrušení vyhlášky, [(§ 16(1) StOK)](http://www.pirati.cz/rules/stok#zmocneni_k_moci_narizovaci)
  * f) hospodář3) požádá republikový výbor o schválení záměru4) z rozpočtu organizační složky5), jejímž je hospodářem,
  * g) vedoucí orgánu předloží přijatelný návrh usnesení v referendu, pokud se má navrženým usnesením schválit dokument, který byl vyjednán s třetími stranami,
  * h) skupina členů, příslušné předsednictvo, jemu nadřízené předsednictvo, přezkumný orgán, republikové předsednictvo nebo zástupce příslušného kraje předloží návrh na změnu předloženého volebního programu, [(§ 17(a) VŘ)](http://www.pirati.cz/rules/vr#zmena_volebniho_programu_a_kandidatni_listiny)
