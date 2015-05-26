@@ -69,13 +69,15 @@ K [§ 3 JdŘ](http://www.pirati.cz/rules/jdr#prava_a_povinnosti) a
   * (3) funkci prezidenta České republiky,
   * (4) mandát poslance Evropského parlamentu.
 * e) člen strany zvolený do funkce v mezinárodní organizaci pirátských stran,
-* f) navržený kandidát, pokud republikový výbor jedná o volbě(§ 6(2))[#§ 6 Zahájení jednání]
+* f) navrhovatel projednávaného návrhu, (§ 6)[#§ 6 Zahájení jednání]
+* f) navržený kandidát, pokud republikový výbor jedná o volbě, (§ 6(2))[#§ 6 Zahájení jednání]
 * g) osoba, s jejíž účastí republikový výbor vyslovil souhlas schválením procedurálního návrhu, v mezích tohoto souhlasu.
 
 (2) Ustanovení o působnosti orgánů se nevztahují na právo účasti. Počet účastníků a hlasujících nelze omezit.
 
-(3) Uzavřená jednání musí být zveřejněno nejpozději týden před koncem volebního období republikového výboru.([§18(4) StOK](http://www.pirati.cz/rules/stok#uzavrena_jednani))
+(3) Vedoucím orgánu se pro účely řádu rozumí vedoucí celostátního odboru, garant programového bodu, předseda celostátní komise, předseda strany nebo jednatel. Vedoucího 
 
+(4) Uzavřená jednání musí být zveřejněno nejpozději týden před koncem volebního období republikového výboru.[(§18(4) StOK)](http://www.pirati.cz/rules/stok#uzavrena_jednani)
 
 K [§ 15(1) JdŘ](http://www.pirati.cz/rules/jdr#zahajeni_jednani1), 
 [§ 19 JdŘ](http://www.pirati.cz/rules/jdr#zahajeni_jednani2), [§ 27 JdŘ](http://www.pirati.cz/rules/jdr#zahajeni_jednani3) a [§ 31(1) JdŘ](http://www.pirati.cz/rules/jdr#postup_pri_odvolani):
@@ -84,15 +86,15 @@ K [§ 15(1) JdŘ](http://www.pirati.cz/rules/jdr#zahajeni_jednani1),
 
 (1) Kromě důvodů předepsaných v jednacím řádu celostátního fóra(§ 15(1) JdŘ) jednání k usnesení předsedající zahájí také, když
 * a) republikovému výboru je uložen úkol celostátním fórem [(čl. 8(6)b) St)](http://www.pirati.cz/rules/st#p8-6),
-* b) republikovému výboru je předložená vyžádaná zpráva [(čl. 9(5)h) St)](http://www.pirati.cz/rules/st#p9-5),
+* b) republikovému výboru je předložená vyžádaná zpráva předsednictva [(čl. 9(5)h) St)](http://www.pirati.cz/rules/st#p9-5),
 * c) republikovému výboru nějaké rozhodnutí odkáže celostátní fórum (např. [§ 17 d) JdŘ](http://www.pirati.cz/rules/jdr#rozhodujici_hlasovani1) nebo [§ 29 c) JdŘ](http://www.pirati.cz/rules/jdr#rozhodujici_hlasovani3)),
-* d) republikovému výboru není předložen rozpočet, výsledky hospodaření nebo výroční finanční zpráva ve lhůtě[(§ 4 RoPr)](http://www.pirati.cz/rules/ropr#harmonogram_rozpoctovani), kdy je mělo republikové předsednictvo předložit,
+* d) republikovému výboru není předložen rozpočet, výsledky hospodaření nebo výroční finanční zpráva ve lhůtě [(§ 4 RoPr)](http://www.pirati.cz/rules/ropr#harmonogram_rozpoctovani), kdy je mělo republikové předsednictvo předložit,
 * e) nebylo řádně oznámeno zasedání republikového výboru do dvou měsíců a republikový výbor už 3 měsíce nezasedal,
-* f) vedoucí nebo pověřenec orgánu předloží přijatelný návrh usnesení, pokud se má navrženým usnesením schválit dokument, který byl vyjednán s třetími stranami, nebo
+* f) vedoucí nebo jím pověřený člen orgánu předloží přijatelný návrh usnesení, pokud se má navrženým usnesením schválit dokument, který byl vyjednán s třetími stranami, nebo
 * g) byl vyhlášen termín voleb pro něž je třeba připravit společný volební program. [(§ 14 VŘ)](http://www.pirati.cz/rules/vr#spolecny_volebni_program)
 
 (2) Kromě důvodů předepsaných v jednacím řádu celostátního fóra(§ 19 JdŘ) jednání k volbě předsedající zahájí také, když
-* a) přijmající předsednictvo předloží přihlášku člena, který byl v minulosti ze strany vyloučen[(čl. 3(1)f) St)](http://www.pirati.cz/rules/st#p3-1)
+* a) přijmající předsednictvo předloží přihlášku člena, který byl v minulosti ze strany vyloučen [(čl. 3(1)f) St)](http://www.pirati.cz/rules/st#p3-1)
 * b) probíhá volba celostátního fóra[(§ 19 JdŘ)](http://www.pirati.cz/rules/jdr#zahajeni_jednani2), do níž může výbor nominovat kandidáta[(§ 21(b) JdŘ)](http://www.pirati.cz/rules/jdr#navrhovani_kandidatu) a skupina členů předloží návrh na nominaci takového kandidáta; Velikost skupiny se přitom určuje, jako by se jednalo o návrh na již probíhající jednání,
 * c) skupina členů, příslušné předsednictvo, jemu nadřízené předsednictvo, republikové předsednictvo nebo zástupce příslušného kraje v předloží návrh na doplnění kandidátní listiny[(§ 17(b) VŘ)](http://www.pirati.cz/rules/vr#zmena_volebniho_programu_a_kandidatni_listiny).
 
@@ -103,8 +105,8 @@ K [§ 15(1) JdŘ](http://www.pirati.cz/rules/jdr#zahajeni_jednani1),
  * d) probíhá jednání o usnesení celostátního fóra[(§ 15 JdŘ)](http://www.pirati.cz/rules/jdr#zahajeni_jednani1) a skupina členů navrhne, aby republikový výbor v tomto jednání předložil svůj návrh; Velikost skupiny se přitom určuje, jako by se jednalo o návrh na již probíhající jednání,
  * e) republikové předsednictvo, kontrolní nebo rozhodčí komise, nebo skupina členů předloží návrh na zrušení vyhlášky [(§ 16(1) )](http://www.pirati.cz/rules/stok#zmocneni_k_moci_narizovaci),
  * f) hospodář3) požádá republikový výbor o schválení záměru4) z rozpočtu organizační složky5), jejímž je hospodářem,
- * g) vedoucí nebo pověřenec orgánu předloží přijatelný návrh usnesení v referendu, pokud se má navrženým usnesením schválit dokument, který byl vyjednán s třetími stranami,
- * h) skupina členů, příslušné předsednictvo, jemu nadřízené předsednictvo, přezkumný orgán, republikové předsednictvo nebo zástupce příslušného kraje předloží návrh na upravení pořadí na kandidátní listině[(§ 17(b) VŘ)](http://www.pirati.cz/rules/vr#zmena_volebniho_programu_a_kandidatni_listiny), nebo
+ * g) vedoucí nebo jím pověřený člen orgánu předloží přijatelný návrh usnesení v referendu, pokud se má navrženým usnesením schválit dokument, který byl vyjednán s třetími stranami,
+ * h) skupina členů, příslušné předsednictvo, jemu nadřízené předsednictvo, přezkumný orgán, republikové předsednictvo nebo zástupce příslušného kraje předloží návrh na změnu předloženého volebního programu [(§ 17(a) VŘ)](http://www.pirati.cz/rules/vr#zmena_volebniho_programu_a_kandidatni_listiny), nebo
  * ch) skupina členů, příslušné předsednictvo, jemu nadřízené předsednictvo, přezkumný orgán, republikové předsednictvo nebo zástupce příslušného kraje navrhnou provedení dohledu nad volební spoluprací[(§ 16 VŘ)](http://www.pirati.cz/rules/vr#dohled_nad_volebni_spolupraci).
 
 (4) Kromě důvodů předepsaných v jednacím řádu celostátního fóra (§ 31 JdŘ) jednání k odvolání předsedající zahájí také, když
@@ -112,7 +114,7 @@ K [§ 15(1) JdŘ](http://www.pirati.cz/rules/jdr#zahajeni_jednani1),
  * b) skupina členů navrhne odvolání osoby, jejíž odvolání z funkce je výbor oprávněn navrhnout [(§ 31(1)b) JdŘ)](http://www.pirati.cz/rules/jdr#postup_pri_odvolani), nebo
  * c) skupina členů, příslušné předsednictvo, jemu nadřízené předsednictvo, přezkumný orgán, republikové předsednictvo nebo zástupce příslušného kraje navrhnou vyškrtnutí z kandidátní listiny[(§ 17(b) VŘ)](http://www.pirati.cz/rules/vr#zmena_volebniho_programu_a_kandidatni_listiny).
 
-(5) Vedoucím orgánu se v tomto paragrafu rozumí vedoucí odboru, garant programového bodu, předseda komise, předseda nebo pověřený místopředseda strany, nebo jednatel.
+##### **§ 7 Lhůty**
 
 K [§ 16 JdŘ](http://www.pirati.cz/rules/jdr#rozprava1), [§ 20 JdŘ](http://www.pirati.cz/rules/jdr#rozprava2) a [§ 33 JdŘ](http://www.pirati.cz/rules/jdr#postup_pri_sestavovani_poradu_zasedani):
 
@@ -160,7 +162,7 @@ K [§ 33(2) JdŘ](http://www.pirati.cz/rules/jdr#postup_pri_sestavovani_poradu_z
 
 ##### **§ 10 Postup při sestavování pořadu zasedání**
 
-Návrhem bodu zasedání, ve kterém má být přijato rozhodnutí, je přijatelný návrh rozhodnutí. Návrh jiného bodu zasedání, ve kterém nemá být přijato rozhodnutí, může předložit skupina členů, republikové předsednictvo, vedoucí odboru, garant nebo přezkumný orgán.
+Návrhem bodu zasedání, ve kterém má být přijato rozhodnutí, je přijatelný návrh rozhodnutí. Návrh jiného bodu zasedání, ve kterém nemá být přijato rozhodnutí, může předložit skupina členů, republikové předsednictvo, vedoucí orgánu nebo jím pověřený člen orgánu v působnosti daného orgánu.
 
 K [§ 36 JdŘ](http://www.pirati.cz/rules/jdr#hlasovani_na_internetu):
 
