@@ -70,12 +70,12 @@ K [§ 3 JdŘ](http://www.pirati.cz/rules/jdr#prava_a_povinnosti) a
   * (4) mandát poslance Evropského parlamentu.
 * e) člen strany zvolený do funkce v mezinárodní organizaci pirátských stran,
 * f) navrhovatel projednávaného návrhu, (§ 6)[#§ 6 Zahájení jednání]
-* f) navržený kandidát, pokud republikový výbor jedná o volbě, (§ 6(2))[#§ 6 Zahájení jednání]
-* g) osoba, s jejíž účastí republikový výbor vyslovil souhlas schválením procedurálního návrhu, v mezích tohoto souhlasu.
+* g) navržený kandidát, pokud republikový výbor jedná o volbě, (§ 6(2))[#§ 6 Zahájení jednání]
+* h) osoba, s jejíž účastí republikový výbor vyslovil souhlas schválením procedurálního návrhu, v mezích tohoto souhlasu.
 
 (2) Ustanovení o působnosti orgánů se nevztahují na právo účasti. Počet účastníků a hlasujících nelze omezit.
 
-(3) Vedoucím orgánu se pro účely řádu rozumí vedoucí celostátního odboru, garant programového bodu, předseda celostátní komise, předseda strany nebo jednatel. Vedoucího 
+(3) Vedoucím orgánu se pro účely řádu rozumí vedoucí celostátního odboru, garant programového bodu, předseda celostátní komise, předseda strany nebo jednatel. Za vedoucího orgánu může jednat jím ve věci pověřený člen orgánu. 
 
 (4) Uzavřená jednání musí být zveřejněno nejpozději týden před koncem volebního období republikového výboru.[(§18(4) StOK)](http://www.pirati.cz/rules/stok#uzavrena_jednani)
 
@@ -90,7 +90,7 @@ K [§ 15(1) JdŘ](http://www.pirati.cz/rules/jdr#zahajeni_jednani1),
 * c) republikovému výboru nějaké rozhodnutí odkáže celostátní fórum (např. [§ 17 d) JdŘ](http://www.pirati.cz/rules/jdr#rozhodujici_hlasovani1) nebo [§ 29 c) JdŘ](http://www.pirati.cz/rules/jdr#rozhodujici_hlasovani3)),
 * d) republikovému výboru není předložen rozpočet, výsledky hospodaření nebo výroční finanční zpráva ve lhůtě [(§ 4 RoPr)](http://www.pirati.cz/rules/ropr#harmonogram_rozpoctovani), kdy je mělo republikové předsednictvo předložit,
 * e) nebylo řádně oznámeno zasedání republikového výboru do dvou měsíců a republikový výbor už 3 měsíce nezasedal,
-* f) vedoucí nebo jím pověřený člen orgánu předloží přijatelný návrh usnesení, pokud se má navrženým usnesením schválit dokument, který byl vyjednán s třetími stranami, nebo
+* f) vedoucí orgánu předloží přijatelný návrh usnesení, pokud se má navrženým usnesením schválit dokument, který byl vyjednán s třetími stranami, nebo
 * g) byl vyhlášen termín voleb pro něž je třeba připravit společný volební program. [(§ 14 VŘ)](http://www.pirati.cz/rules/vr#spolecny_volebni_program)
 
 (2) Kromě důvodů předepsaných v jednacím řádu celostátního fóra(§ 19 JdŘ) jednání k volbě předsedající zahájí také, když
@@ -105,8 +105,9 @@ K [§ 15(1) JdŘ](http://www.pirati.cz/rules/jdr#zahajeni_jednani1),
  * d) probíhá jednání o usnesení celostátního fóra[(§ 15 JdŘ)](http://www.pirati.cz/rules/jdr#zahajeni_jednani1) a skupina členů navrhne, aby republikový výbor v tomto jednání předložil svůj návrh; Velikost skupiny se přitom určuje, jako by se jednalo o návrh na již probíhající jednání,
  * e) republikové předsednictvo, kontrolní nebo rozhodčí komise, nebo skupina členů předloží návrh na zrušení vyhlášky [(§ 16(1) )](http://www.pirati.cz/rules/stok#zmocneni_k_moci_narizovaci),
  * f) hospodář3) požádá republikový výbor o schválení záměru4) z rozpočtu organizační složky5), jejímž je hospodářem,
- * g) vedoucí nebo jím pověřený člen orgánu předloží přijatelný návrh usnesení v referendu, pokud se má navrženým usnesením schválit dokument, který byl vyjednán s třetími stranami,
- * h) skupina členů, příslušné předsednictvo, jemu nadřízené předsednictvo, přezkumný orgán, republikové předsednictvo nebo zástupce příslušného kraje předloží návrh na změnu předloženého volebního programu [(§ 17(a) VŘ)](http://www.pirati.cz/rules/vr#zmena_volebniho_programu_a_kandidatni_listiny), nebo
+ * g) vedoucí orgánu předloží přijatelný návrh usnesení v referendu, pokud se má navrženým usnesením schválit dokument, který byl vyjednán s třetími stranami,
+ * h) skupina členů, příslušné předsednictvo, jemu nadřízené předsednictvo, přezkumný orgán, republikové předsednictvo nebo zástupce příslušného kraje předloží návrh na změnu předloženého volebního programu, [(§ 17(a) VŘ)](http://www.pirati.cz/rules/vr#zmena_volebniho_programu_a_kandidatni_listiny)
+ * ch) skupina členů, příslušné předsednictvo, jemu nadřízené předsednictvo, přezkumný orgán, republikové předsednictvo nebo zástupce příslušného kraje v předloží návrh na doplnění kandidátní listiny, [(§ 17(b) VŘ)](http://www.pirati.cz/rules/vr#zmena_volebniho_programu_a_kandidatni_listiny)
  * ch) skupina členů, příslušné předsednictvo, jemu nadřízené předsednictvo, přezkumný orgán, republikové předsednictvo nebo zástupce příslušného kraje navrhnou provedení dohledu nad volební spoluprací[(§ 16 VŘ)](http://www.pirati.cz/rules/vr#dohled_nad_volebni_spolupraci).
 
 (4) Kromě důvodů předepsaných v jednacím řádu celostátního fóra (§ 31 JdŘ) jednání k odvolání předsedající zahájí také, když
