@@ -95,8 +95,7 @@ K [§ 15(1) JdŘ](http://www.pirati.cz/rules/jdr#zahajeni_jednani1),
 
 (2) Kromě důvodů předepsaných v jednacím řádu celostátního fóra(§ 19 JdŘ) jednání k volbě předsedající zahájí také, když
 * a) přijmající předsednictvo předloží přihlášku člena, který byl v minulosti ze strany vyloučen [(čl. 3(1)f) St)](http://www.pirati.cz/rules/st#p3-1)
-* b) probíhá volba celostátního fóra[(§ 19 JdŘ)](http://www.pirati.cz/rules/jdr#zahajeni_jednani2), do níž může výbor nominovat kandidáta[(§ 21(b) JdŘ)](http://www.pirati.cz/rules/jdr#navrhovani_kandidatu) a skupina členů předloží návrh na nominaci takového kandidáta; Velikost skupiny se přitom určuje, jako by se jednalo o návrh na již probíhající jednání,
-* c) skupina členů, příslušné předsednictvo, jemu nadřízené předsednictvo, republikové předsednictvo nebo zástupce příslušného kraje v předloží návrh na doplnění kandidátní listiny[(§ 17(b) VŘ)](http://www.pirati.cz/rules/vr#zmena_volebniho_programu_a_kandidatni_listiny).
+* b) probíhá volba celostátního fóra[(§ 19 JdŘ)](http://www.pirati.cz/rules/jdr#zahajeni_jednani2), do níž může výbor nominovat kandidáta[(§ 21(b) JdŘ)](http://www.pirati.cz/rules/jdr#navrhovani_kandidatu) a skupina členů předloží návrh na nominaci takového kandidáta; Velikost skupiny se přitom určuje, jako by se jednalo o návrh na již probíhající jednání.
 
 (3) Kromě důvodů předepsaných v jednacím řádu celostátního fóra (§ 27 JdŘ) jednání v referendu předsedající zahájí také, když
  * a) republikové předsednictvo nebo přezkumný orgán předloží návrh na projednání v referendu,
@@ -107,13 +106,12 @@ K [§ 15(1) JdŘ](http://www.pirati.cz/rules/jdr#zahajeni_jednani1),
  * f) hospodář3) požádá republikový výbor o schválení záměru4) z rozpočtu organizační složky5), jejímž je hospodářem,
  * g) vedoucí orgánu předloží přijatelný návrh usnesení v referendu, pokud se má navrženým usnesením schválit dokument, který byl vyjednán s třetími stranami,
  * h) skupina členů, příslušné předsednictvo, jemu nadřízené předsednictvo, přezkumný orgán, republikové předsednictvo nebo zástupce příslušného kraje předloží návrh na změnu předloženého volebního programu, [(§ 17(a) VŘ)](http://www.pirati.cz/rules/vr#zmena_volebniho_programu_a_kandidatni_listiny)
- * ch) skupina členů, příslušné předsednictvo, jemu nadřízené předsednictvo, přezkumný orgán, republikové předsednictvo nebo zástupce příslušného kraje v předloží návrh na doplnění kandidátní listiny, [(§ 17(b) VŘ)](http://www.pirati.cz/rules/vr#zmena_volebniho_programu_a_kandidatni_listiny)
+ * ch) skupina členů, příslušné předsednictvo, jemu nadřízené předsednictvo, přezkumný orgán, republikové předsednictvo nebo zástupce příslušného kraje v předloží návrh na změnu(doplnění, změnu pořadí či vyškrtnutí) kandidátní listiny [(§ 17(b) VŘ)](http://www.pirati.cz/rules/vr#zmena_volebniho_programu_a_kandidatni_listiny); Účast a závěrečné slovo je v takovém případě dovoleno kandidátům, kterých se návrh týká,
  * ch) skupina členů, příslušné předsednictvo, jemu nadřízené předsednictvo, přezkumný orgán, republikové předsednictvo nebo zástupce příslušného kraje navrhnou provedení dohledu nad volební spoluprací[(§ 16 VŘ)](http://www.pirati.cz/rules/vr#dohled_nad_volebni_spolupraci).
 
 (4) Kromě důvodů předepsaných v jednacím řádu celostátního fóra (§ 31 JdŘ) jednání k odvolání předsedající zahájí také, když
  * a) skupina členů, přezkumný orgán nebo republikové předsednictvo předloží návrh na veto jmenování člena odboru či jeho pověření funkcí[(čl. 12(5) St)](http://www.pirati.cz/rules/st#p12-5),
- * b) skupina členů navrhne odvolání osoby, jejíž odvolání z funkce je výbor oprávněn navrhnout [(§ 31(1)b) JdŘ)](http://www.pirati.cz/rules/jdr#postup_pri_odvolani), nebo
- * c) skupina členů, příslušné předsednictvo, jemu nadřízené předsednictvo, přezkumný orgán, republikové předsednictvo nebo zástupce příslušného kraje navrhnou vyškrtnutí z kandidátní listiny[(§ 17(b) VŘ)](http://www.pirati.cz/rules/vr#zmena_volebniho_programu_a_kandidatni_listiny).
+ * b) skupina členů navrhne odvolání osoby, jejíž odvolání z funkce je výbor oprávněn navrhnout [(§ 31(1)b) JdŘ)](http://www.pirati.cz/rules/jdr#postup_pri_odvolani).
 
 ##### **§ 7 Lhůty**
 
