@@ -62,7 +62,7 @@ K [§ 3 JdŘ](http://www.pirati.cz/rules/jdr#prava_a_povinnosti) a
 (1) Účastnit jednání se smí
 * a) člen republikového výboru,
 * b) člen strany vykonávající funkci volenou celostátním fórem,
-* c) pověřenec odboru[(§ 18(2) StOK)](http://www.pirati.cz/rules/stok#uzavrena_jednani),
+* c) pověřenec odboru, [(§ 18(2) StOK)](http://www.pirati.cz/rules/stok#uzavrena_jednani)
 * d) člen strany vykonávající:
   * (1) mandát poslance nebo senátora parlamentu České republiky,
   * (2) funkci člena vlády České republiky,
@@ -77,16 +77,16 @@ K [§ 3 JdŘ](http://www.pirati.cz/rules/jdr#prava_a_povinnosti) a
 
 (3) Vedoucím orgánu se pro účely řádu rozumí vedoucí celostátního odboru, garant programového bodu, předseda celostátní komise, předseda strany nebo jednatel. Za vedoucího orgánu může jednat jím ve věci pověřený člen orgánu. 
 
-(4) Uzavřená jednání musí být zveřejněno nejpozději týden před koncem volebního období republikového výboru.[(§18(4) StOK)](http://www.pirati.cz/rules/stok#uzavrena_jednani)
+(4) Uzavřená jednání musí být zveřejněno nejpozději týden před koncem volebního období republikového výboru. [(§18(4) StOK)](http://www.pirati.cz/rules/stok#uzavrena_jednani)
 
 K [§ 15(1) JdŘ](http://www.pirati.cz/rules/jdr#zahajeni_jednani1), 
 [§ 19 JdŘ](http://www.pirati.cz/rules/jdr#zahajeni_jednani2), [§ 27 JdŘ](http://www.pirati.cz/rules/jdr#zahajeni_jednani3) a [§ 31(1) JdŘ](http://www.pirati.cz/rules/jdr#postup_pri_odvolani):
 
 ##### **§ 6 Zahájení jednání**
 
-(1) Kromě důvodů předepsaných v jednacím řádu celostátního fóra(§ 15(1) JdŘ) jednání k usnesení předsedající zahájí také, když
-* a) republikovému výboru je uložen úkol celostátním fórem [(čl. 8(6)b) St)](http://www.pirati.cz/rules/st#p8-6),
-* b) republikovému výboru je předložená vyžádaná zpráva předsednictva [(čl. 9(5)h) St)](http://www.pirati.cz/rules/st#p9-5),
+(1) Kromě důvodů předepsaných v jednacím řádu celostátního fóra (§ 15(1) JdŘ) jednání k usnesení předsedající zahájí také, když
+* a) republikovému výboru je uložen úkol celostátním fórem, [(čl. 8(6)b) St)](http://www.pirati.cz/rules/st#p8-6)
+* b) republikovému výboru je předložená vyžádaná zpráva předsednictva, [(čl. 9(5)h) St)](http://www.pirati.cz/rules/st#p9-5)
 * c) republikovému výboru nějaké rozhodnutí odkáže celostátní fórum (např. [§ 17 d) JdŘ](http://www.pirati.cz/rules/jdr#rozhodujici_hlasovani1) nebo [§ 29 c) JdŘ](http://www.pirati.cz/rules/jdr#rozhodujici_hlasovani3)),
 * d) republikovému výboru není předložen rozpočet, výsledky hospodaření nebo výroční finanční zpráva ve lhůtě [(§ 4 RoPr)](http://www.pirati.cz/rules/ropr#harmonogram_rozpoctovani), kdy je mělo republikové předsednictvo předložit,
 * e) nebylo řádně oznámeno zasedání republikového výboru do dvou měsíců a republikový výbor už 3 měsíce nezasedal,
@@ -94,24 +94,24 @@ K [§ 15(1) JdŘ](http://www.pirati.cz/rules/jdr#zahajeni_jednani1),
 * g) byl vyhlášen termín voleb pro něž je třeba připravit společný volební program. [(§ 14 VŘ)](http://www.pirati.cz/rules/vr#spolecny_volebni_program)
 
 (2) Kromě důvodů předepsaných v jednacím řádu celostátního fóra(§ 19 JdŘ) jednání k volbě předsedající zahájí také, když
-* a) přijmající předsednictvo předloží přihlášku člena, který byl v minulosti ze strany vyloučen [(čl. 3(1)f) St)](http://www.pirati.cz/rules/st#p3-1)
-* b) probíhá volba celostátního fóra[(§ 19 JdŘ)](http://www.pirati.cz/rules/jdr#zahajeni_jednani2), do níž může výbor nominovat kandidáta[(§ 21(b) JdŘ)](http://www.pirati.cz/rules/jdr#navrhovani_kandidatu) a skupina členů předloží návrh na nominaci takového kandidáta; Velikost skupiny se přitom určuje, jako by se jednalo o návrh na již probíhající jednání.
+* a) přijmající předsednictvo předloží přihlášku člena, který byl v minulosti ze strany vyloučen, [(čl. 3(1)f) St)](http://www.pirati.cz/rules/st#p3-1)
+* b) probíhá volba celostátního fóra [(§ 19 JdŘ)](http://www.pirati.cz/rules/jdr#zahajeni_jednani2), do níž může výbor nominovat kandidáta [(§ 21(b) JdŘ)](http://www.pirati.cz/rules/jdr#navrhovani_kandidatu) a skupina členů předloží návrh na nominaci takového kandidáta; Velikost skupiny se přitom určuje, jako by se jednalo o návrh na již probíhající jednání.
 
 (3) Kromě důvodů předepsaných v jednacím řádu celostátního fóra (§ 27 JdŘ) jednání v referendu předsedající zahájí také, když
  * a) republikové předsednictvo nebo přezkumný orgán předloží návrh na projednání v referendu,
- * b) republikové předsednictvo vrátí uložený úkol([čl. 9(5)k) St](http://www.pirati.cz/rules/st#p9-5) a [čl. 10(2)h) St](http://www.pirati.cz/rules/st#p10-2)); možnost znovuuložení je hlasována jako zásadní
+ * b) republikové předsednictvo vrátí uložený úkol ([čl. 9(5)k) St](http://www.pirati.cz/rules/st#p9-5) a [čl. 10(2)h) St](http://www.pirati.cz/rules/st#p10-2)); možnost znovuuložení je hlasována jako zásadní návrh
  * c) republikovému výboru nějaké rozhodnutí odkáže celostátní fórum v referendu [(§ 17 d) JdŘ)](http://www.pirati.cz/rules/jdr#rozhodujici_hlasovani1),
- * d) probíhá jednání o usnesení celostátního fóra[(§ 15 JdŘ)](http://www.pirati.cz/rules/jdr#zahajeni_jednani1) a skupina členů navrhne, aby republikový výbor v tomto jednání předložil svůj návrh; Velikost skupiny se přitom určuje, jako by se jednalo o návrh na již probíhající jednání,
- * e) republikové předsednictvo, kontrolní nebo rozhodčí komise, nebo skupina členů předloží návrh na zrušení vyhlášky [(§ 16(1) )](http://www.pirati.cz/rules/stok#zmocneni_k_moci_narizovaci),
+ * d) probíhá jednání o usnesení celostátního fóra [(§ 15 JdŘ)](http://www.pirati.cz/rules/jdr#zahajeni_jednani1) a skupina členů navrhne, aby republikový výbor v tomto jednání předložil svůj návrh; Velikost skupiny se přitom určuje, jako by se jednalo o návrh na již probíhající jednání,
+ * e) republikové předsednictvo, kontrolní nebo rozhodčí komise, nebo skupina členů předloží návrh na zrušení vyhlášky, [(§ 16(1) )](http://www.pirati.cz/rules/stok#zmocneni_k_moci_narizovaci)
  * f) hospodář3) požádá republikový výbor o schválení záměru4) z rozpočtu organizační složky5), jejímž je hospodářem,
  * g) vedoucí orgánu předloží přijatelný návrh usnesení v referendu, pokud se má navrženým usnesením schválit dokument, který byl vyjednán s třetími stranami,
  * h) skupina členů, příslušné předsednictvo, jemu nadřízené předsednictvo, přezkumný orgán, republikové předsednictvo nebo zástupce příslušného kraje předloží návrh na změnu předloženého volebního programu, [(§ 17(a) VŘ)](http://www.pirati.cz/rules/vr#zmena_volebniho_programu_a_kandidatni_listiny)
  * ch) skupina členů, příslušné předsednictvo, jemu nadřízené předsednictvo, přezkumný orgán, republikové předsednictvo nebo zástupce příslušného kraje v předloží návrh na změnu(doplnění, změnu pořadí či vyškrtnutí) kandidátní listiny [(§ 17(b) VŘ)](http://www.pirati.cz/rules/vr#zmena_volebniho_programu_a_kandidatni_listiny); Účast a závěrečné slovo je v takovém případě dovoleno kandidátům, kterých se návrh týká,
- * ch) skupina členů, příslušné předsednictvo, jemu nadřízené předsednictvo, přezkumný orgán, republikové předsednictvo nebo zástupce příslušného kraje navrhnou provedení dohledu nad volební spoluprací[(§ 16 VŘ)](http://www.pirati.cz/rules/vr#dohled_nad_volebni_spolupraci).
+ * ch) skupina členů, příslušné předsednictvo, jemu nadřízené předsednictvo, přezkumný orgán, republikové předsednictvo nebo zástupce příslušného kraje navrhnou provedení dohledu nad volební spoluprací [(§ 16 VŘ)](http://www.pirati.cz/rules/vr#dohled_nad_volebni_spolupraci).
 
 (4) Kromě důvodů předepsaných v jednacím řádu celostátního fóra (§ 31 JdŘ) jednání k odvolání předsedající zahájí také, když
- * a) skupina členů, přezkumný orgán nebo republikové předsednictvo předloží návrh na veto jmenování člena odboru či jeho pověření funkcí[(čl. 12(5) St)](http://www.pirati.cz/rules/st#p12-5),
- * b) skupina členů navrhne odvolání osoby, jejíž odvolání z funkce je výbor oprávněn navrhnout [(§ 31(1)b) JdŘ)](http://www.pirati.cz/rules/jdr#postup_pri_odvolani).
+ * a) skupina členů, přezkumný orgán nebo republikové předsednictvo předloží návrh na veto jmenování člena odboru či jeho pověření funkcí, [(čl. 12(5) St)](http://www.pirati.cz/rules/st#p12-5)
+ * b) skupina členů navrhne odvolání osoby, jejíž odvolání z funkce je výbor oprávněn navrhnout. [(§ 31(1)b) JdŘ)](http://www.pirati.cz/rules/jdr#postup_pri_odvolani)
 
 ##### **§ 7 Lhůty**
 
@@ -161,7 +161,7 @@ K [§ 33(2) JdŘ](http://www.pirati.cz/rules/jdr#postup_pri_sestavovani_poradu_z
 
 ##### **§ 10 Postup při sestavování pořadu zasedání**
 
-Návrhem bodu zasedání, ve kterém má být přijato rozhodnutí, je přijatelný návrh rozhodnutí. Návrh jiného bodu zasedání, ve kterém nemá být přijato rozhodnutí, může předložit skupina členů, republikové předsednictvo, vedoucí orgánu nebo jím pověřený člen orgánu v působnosti daného orgánu.
+Návrhem bodu zasedání, ve kterém má být přijato rozhodnutí, je přijatelný návrh rozhodnutí. Návrh jiného bodu zasedání, ve kterém nemá být přijato rozhodnutí, může předložit skupina členů, republikové předsednictvo, vedoucí orgánu v působnosti daného orgánu.
 
 K [§ 36 JdŘ](http://www.pirati.cz/rules/jdr#hlasovani_na_internetu):
 
