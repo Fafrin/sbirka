@@ -70,7 +70,7 @@ K [§ 3 JdŘ](http://www.pirati.cz/rules/jdr#prava_a_povinnosti) a
   * (4) mandát poslance Evropského parlamentu.
 * e) člen strany zvolený do funkce v mezinárodní organizaci pirátských stran,
 * f) navrhovatel projednávaného návrhu, (§ 6)[#§ 6 Zahájení jednání]
-* g) navržený kandidát, pokud republikový výbor jedná o volbě, (§ 6(2))[#§ 6 Zahájení jednání]
+* g) navržený kandidát, pokud republikový výbor jedná o volbě (§ 6(2))[#§ 6 Zahájení jednání] a odvolávaný, pokud republikový výbor jedná o odvolání(§ 6(4))[#§ 6 Zahájení jednání],
 * h) osoba, s jejíž účastí republikový výbor vyslovil souhlas schválením procedurálního návrhu, v mezích tohoto souhlasu.
 
 (2) Ustanovení o působnosti orgánů se nevztahují na právo účasti. Počet účastníků a hlasujících nelze omezit.
