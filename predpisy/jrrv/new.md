@@ -113,8 +113,6 @@ K [§ 15(1) JdŘ](http://www.pirati.cz/rules/jdr#zahajeni_jednani1),
  * a) skupina členů, přezkumný orgán nebo republikové předsednictvo předloží návrh na veto jmenování člena odboru či jeho pověření funkcí, [(čl. 12(5) St)](http://www.pirati.cz/rules/st#p12-5)
  * b) skupina členů navrhne odvolání osoby, jejíž odvolání z funkce je výbor oprávněn navrhnout. [(§ 31(1)b) JdŘ)](http://www.pirati.cz/rules/jdr#postup_pri_odvolani)
 
-##### **§ 7 Lhůty**
-
 K [§ 16 JdŘ](http://www.pirati.cz/rules/jdr#rozprava1), [§ 20 JdŘ](http://www.pirati.cz/rules/jdr#rozprava2) a [§ 33 JdŘ](http://www.pirati.cz/rules/jdr#postup_pri_sestavovani_poradu_zasedani):
 
 ##### **§ 7 Lhůty**
